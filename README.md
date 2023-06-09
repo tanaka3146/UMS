@@ -10,7 +10,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 ### Set DB
-
+use set in windows and export in linux/mac
 ```
 export FLASK_APP=app.py
 python 
