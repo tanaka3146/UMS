@@ -1,6 +1,6 @@
 # UMS
 ## Installation
-1. Clone the backend-intern-assignment and proceed with steps mentioned below
+1. Clone the backend-intern-assignment branch and proceed with steps mentioned below
 
 ### Install requirements
 
