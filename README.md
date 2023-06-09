@@ -14,10 +14,10 @@ pip install -r requirements.txt
 ```
 export FLASK_APP=app.py
 python 
->>>from app import db,app
->>>app.app_context().push()
->>>db.create_all()
->>>exit()
+from app import db,app
+app.app_context().push()
+db.create_all()
+exit()
 ```
 ### Start Server
 
